@@ -1,7 +1,6 @@
 # bashed-player
 
-Simple cui music player, !!ALPHA VERSION - FOR TESTING PURPOSES CATS TXT FILES!!
-
+Simple cui music player, working using ffplay
 ################################################################################
 
 !!!Windows version is working only with Git Bash installed and ffplay binaries location added!!!!
